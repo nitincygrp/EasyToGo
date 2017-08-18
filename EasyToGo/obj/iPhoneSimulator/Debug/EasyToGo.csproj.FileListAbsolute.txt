@@ -1,0 +1,9 @@
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/bin/iPhoneSimulator/Debug/EasyToGo.exe
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/bin/iPhoneSimulator/Debug/EasyToGo.pdb
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/obj/iPhoneSimulator/Debug/EasyToGo.csproj.CoreCompileInputs.cache
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/obj/iPhoneSimulator/Debug/EasyToGo.exe
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/obj/iPhoneSimulator/Debug/EasyToGo.pdb
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/actool/_PartialAppManifest.items
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/shivangi.agarwal/Desktop/Hackathon/EasyToGo/EasyToGo/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/optimized/
